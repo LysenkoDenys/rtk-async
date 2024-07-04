@@ -2,7 +2,6 @@ import { createSlice } from '@reduxjs/toolkit';
 
 const initialState = {
   todos: [],
-  // isCompleted: false,
 };
 
 export const todoSlice = createSlice({
